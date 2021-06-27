@@ -1,0 +1,43 @@
+{
+    "name": "Jcodefy",
+    "short_name": "Jcodefy",
+    "start_url": "https://www.Jcodefy.com/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#1976d2",
+    "description": "Jcodefy Shares Tutorials For Blogger Templates,Blogger widget, Search Engine Optimization(SEO),Social Media Optimization and Marketing (SMO SMM); Responsive Templates, jQuery, CSS, HTML, JavaScript, Web Tools,Wordpress.",
+    "icons": [   {
+            "src": "https://1.bp.blogspot.com/-8rTeFuzqLvQ/YNgYyVjjRzI/AAAAAAAACPo/rL8rRnD1GFENcTCP1y6GqLX8ynCN5CTEgCLcBGAsYHQ/s32/jcodefyicon.png",
+            "sizes": "32x32",
+            "type": "image/png"
+          },
+        {
+      "src": "https://1.bp.blogspot.com/-8rTeFuzqLvQ/YNgYyVjjRzI/AAAAAAAACPo/rL8rRnD1GFENcTCP1y6GqLX8ynCN5CTEgCLcBGAsYHQ/s48/jcodefyicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }, {
+      "src": "https://1.bp.blogspot.com/-8rTeFuzqLvQ/YNgYyVjjRzI/AAAAAAAACPo/rL8rRnD1GFENcTCP1y6GqLX8ynCN5CTEgCLcBGAsYHQ/s72/jcodefyicon.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }, {
+      "src": "https://1.bp.blogspot.com/-8rTeFuzqLvQ/YNgYyVjjRzI/AAAAAAAACPo/rL8rRnD1GFENcTCP1y6GqLX8ynCN5CTEgCLcBGAsYHQ/s96/jcodefyicon.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }, {
+      "src": "https://1.bp.blogspot.com/-8rTeFuzqLvQ/YNgYyVjjRzI/AAAAAAAACPo/rL8rRnD1GFENcTCP1y6GqLX8ynCN5CTEgCLcBGAsYHQ/s144/jcodefyicon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "https://1.bp.blogspot.com/-8rTeFuzqLvQ/YNgYyVjjRzI/AAAAAAAACPo/rL8rRnD1GFENcTCP1y6GqLX8ynCN5CTEgCLcBGAsYHQ/s168/jcodefyicon.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    }, {
+      "src": "https://1.bp.blogspot.com/-8rTeFuzqLvQ/YNgYyVjjRzI/AAAAAAAACPo/rL8rRnD1GFENcTCP1y6GqLX8ynCN5CTEgCLcBGAsYHQ/s192/jcodefyicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "https://1.bp.blogspot.com/-8rTeFuzqLvQ/YNgYyVjjRzI/AAAAAAAACPo/rL8rRnD1GFENcTCP1y6GqLX8ynCN5CTEgCLcBGAsYHQ/s0/jcodefyicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }]
+  }
