@@ -34,7 +34,8 @@
     }, {
       "src": "https://1.bp.blogspot.com/-8rTeFuzqLvQ/YNgYyVjjRzI/AAAAAAAACPo/rL8rRnD1GFENcTCP1y6GqLX8ynCN5CTEgCLcBGAsYHQ/s192/jcodefyicon.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }, {
       "src": "https://1.bp.blogspot.com/-8rTeFuzqLvQ/YNgYyVjjRzI/AAAAAAAACPo/rL8rRnD1GFENcTCP1y6GqLX8ynCN5CTEgCLcBGAsYHQ/s0/jcodefyicon.png",
       "sizes": "512x512",
